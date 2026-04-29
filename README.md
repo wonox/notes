@@ -1,4 +1,4 @@
-# notes
+# [notes](https://wonox.github.io/notes/)
 miscellaneous notes
 
 ## 
