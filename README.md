@@ -9,3 +9,4 @@ miscellaneous notes
 - [2026/05/10 NISTEP定点調査2025 におけるオープンアクセス、データ管理に関する記載の抜粋](https://wonox.github.io/notes/20260510.html)
 - [2026/06/03 Elsevier vs Meta 訴訟の整理](https://wonox.github.io/notes/20260603.html)
 - [NACSIS0-CAT システム環境の変遷(予備的なメモ)](https://wonox.github.io/notes/20260614.html)
+- [場としての大学図書館の再構築](https://wonox.github.io/notes/20260627.html)
